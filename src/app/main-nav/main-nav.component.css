@@ -1,0 +1,23 @@
+/* L mat Card */
+
+mat-grid-tile {
+    background: rgb(2, 26, 36);
+}
+
+.card-site {
+    max-width: 10000px;
+}
+
+.example-header-image {
+    background-image: url('https://federatedservice.com/wp-content/uploads/2018/09/FSS_SiteSurvey.jpg');
+    background-size: 100000px;
+}
+
+.card-simulation {
+    max-width: 40000px;
+}
+
+.example-header-image {
+    background-image: url('https://www.visualcomponents.com/app/uploads/2017/11/blog-simulation-visualization-difference-visual-components.jpg');
+    background-size: 100000px;
+}
